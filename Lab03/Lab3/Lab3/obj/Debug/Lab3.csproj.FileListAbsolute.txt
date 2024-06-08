@@ -1,0 +1,17 @@
+D:\Laptrinhmangcb\TH\Lab3\Lab3\Lab3\bin\Debug\Lab3.exe.config
+D:\Laptrinhmangcb\TH\Lab3\Lab3\Lab3\bin\Debug\Lab3.exe
+D:\Laptrinhmangcb\TH\Lab3\Lab3\Lab3\bin\Debug\Lab3.pdb
+D:\Laptrinhmangcb\TH\Lab3\Lab3\Lab3\obj\Debug\Lab3.csproj.AssemblyReference.cache
+D:\Laptrinhmangcb\TH\Lab3\Lab3\Lab3\obj\Debug\Lab3.Form1.resources
+D:\Laptrinhmangcb\TH\Lab3\Lab3\Lab3\obj\Debug\Lab3.Properties.Resources.resources
+D:\Laptrinhmangcb\TH\Lab3\Lab3\Lab3\obj\Debug\Lab3.csproj.GenerateResource.cache
+D:\Laptrinhmangcb\TH\Lab3\Lab3\Lab3\obj\Debug\Lab3.csproj.CoreCompileInputs.cache
+D:\Laptrinhmangcb\TH\Lab3\Lab3\Lab3\obj\Debug\Lab3.exe
+D:\Laptrinhmangcb\TH\Lab3\Lab3\Lab3\obj\Debug\Lab3.pdb
+D:\Laptrinhmangcb\TH\Lab3\Lab3\Lab3\obj\Debug\Lab3.Lab3_Bai01.resources
+D:\Laptrinhmangcb\TH\Lab3\Lab3\Lab3\obj\Debug\Lab3.Client.resources
+D:\Laptrinhmangcb\TH\Lab3\Lab3\Lab3\obj\Debug\Lab3.Server.resources
+D:\Laptrinhmangcb\TH\Lab3\Lab3\Lab3\obj\Debug\Lab3.Lab3_Bai02.resources
+D:\Laptrinhmangcb\TH\Lab3\Lab3\Lab3\obj\Debug\Lab3.Lab3_Bai03.resources
+D:\Laptrinhmangcb\TH\Lab3\Lab3\Lab3\obj\Debug\Lab3.tcpclient.resources
+D:\Laptrinhmangcb\TH\Lab3\Lab3\Lab3\obj\Debug\Lab3.tcpserver.resources
