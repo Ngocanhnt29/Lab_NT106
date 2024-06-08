@@ -1,0 +1,34 @@
+[
+    {
+        "name": "Đào, phở và piano",
+        "soldTicket": 0,
+        "exitsTicket": 45,
+        "percentSold": "0%",
+        "revenue": 0,
+        "rank": 1
+      },
+      {
+        "name": "Mai",
+        "soldTicket": 0,
+        "exitsTicket": 30,
+        "percentSold": "0%",
+        "revenue": 0,
+        "rank": 1
+      },
+      {
+        "name": "Gặp lại chị bầu",
+        "soldTicket": 0,
+        "exitsTicket": 15,
+        "percentSold": "0%",
+        "revenue": 0,
+        "rank": 1
+      },
+      {
+        "name": "Tarot",
+        "soldTicket": 0,
+        "exitsTicket": 15,
+        "percentSold": "0%",
+        "revenue": 0,
+        "rank": 1
+      }
+]

@@ -1,0 +1,22 @@
+  [
+    {
+      "name": "Đào, phở và piano",
+      "standardTicket": 45000,
+      "room": [1, 2, 3]
+    },
+    {
+      "name": "Mai",
+      "standardTicket": 100000,
+      "room": [2, 3]
+    },
+    {
+      "name": "Gặp lại chị bầu",
+      "standardTicket": 70000,
+      "room": [1]
+    },
+    {
+      "name": "Tarot",
+      "standardTicket": 90000,
+      "room": [3]
+    }
+  ]

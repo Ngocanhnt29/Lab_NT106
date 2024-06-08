@@ -1,0 +1,307 @@
+E:\22521691_LeHoangVu\Lab05\Lab05\Bai4\bin\Debug\Bai4.exe.config
+E:\22521691_LeHoangVu\Lab05\Lab05\Bai4\bin\Debug\Bai4.exe
+E:\22521691_LeHoangVu\Lab05\Lab05\Bai4\bin\Debug\Bai4.pdb
+E:\22521691_LeHoangVu\Lab05\Lab05\Bai4\bin\Debug\BouncyCastle.Cryptography.dll
+E:\22521691_LeHoangVu\Lab05\Lab05\Bai4\bin\Debug\Google.Apis.Auth.dll
+E:\22521691_LeHoangVu\Lab05\Lab05\Bai4\bin\Debug\Google.Apis.Core.dll
+E:\22521691_LeHoangVu\Lab05\Lab05\Bai4\bin\Debug\Google.Apis.dll
+E:\22521691_LeHoangVu\Lab05\Lab05\Bai4\bin\Debug\MailKit.dll
+E:\22521691_LeHoangVu\Lab05\Lab05\Bai4\bin\Debug\MimeKit.dll
+E:\22521691_LeHoangVu\Lab05\Lab05\Bai4\bin\Debug\Newtonsoft.Json.dll
+E:\22521691_LeHoangVu\Lab05\Lab05\Bai4\bin\Debug\System.Buffers.dll
+E:\22521691_LeHoangVu\Lab05\Lab05\Bai4\bin\Debug\System.CodeDom.dll
+E:\22521691_LeHoangVu\Lab05\Lab05\Bai4\bin\Debug\System.Formats.Asn1.dll
+E:\22521691_LeHoangVu\Lab05\Lab05\Bai4\bin\Debug\System.Memory.dll
+E:\22521691_LeHoangVu\Lab05\Lab05\Bai4\bin\Debug\System.Numerics.Vectors.dll
+E:\22521691_LeHoangVu\Lab05\Lab05\Bai4\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\22521691_LeHoangVu\Lab05\Lab05\Bai4\bin\Debug\System.Threading.Tasks.Extensions.dll
+E:\22521691_LeHoangVu\Lab05\Lab05\Bai4\bin\Debug\System.ValueTuple.dll
+E:\22521691_LeHoangVu\Lab05\Lab05\Bai4\bin\Debug\BouncyCastle.Cryptography.xml
+E:\22521691_LeHoangVu\Lab05\Lab05\Bai4\bin\Debug\Google.Apis.pdb
+E:\22521691_LeHoangVu\Lab05\Lab05\Bai4\bin\Debug\Google.Apis.xml
+E:\22521691_LeHoangVu\Lab05\Lab05\Bai4\bin\Debug\Google.Apis.Auth.pdb
+E:\22521691_LeHoangVu\Lab05\Lab05\Bai4\bin\Debug\Google.Apis.Auth.xml
+E:\22521691_LeHoangVu\Lab05\Lab05\Bai4\bin\Debug\Google.Apis.Core.pdb
+E:\22521691_LeHoangVu\Lab05\Lab05\Bai4\bin\Debug\Google.Apis.Core.xml
+E:\22521691_LeHoangVu\Lab05\Lab05\Bai4\bin\Debug\MailKit.pdb
+E:\22521691_LeHoangVu\Lab05\Lab05\Bai4\bin\Debug\MailKit.xml
+E:\22521691_LeHoangVu\Lab05\Lab05\Bai4\bin\Debug\MailKit.dll.config
+E:\22521691_LeHoangVu\Lab05\Lab05\Bai4\bin\Debug\MimeKit.pdb
+E:\22521691_LeHoangVu\Lab05\Lab05\Bai4\bin\Debug\MimeKit.xml
+E:\22521691_LeHoangVu\Lab05\Lab05\Bai4\bin\Debug\MimeKit.dll.config
+E:\22521691_LeHoangVu\Lab05\Lab05\Bai4\bin\Debug\Newtonsoft.Json.xml
+E:\22521691_LeHoangVu\Lab05\Lab05\Bai4\bin\Debug\System.Buffers.xml
+E:\22521691_LeHoangVu\Lab05\Lab05\Bai4\bin\Debug\System.CodeDom.xml
+E:\22521691_LeHoangVu\Lab05\Lab05\Bai4\bin\Debug\System.Formats.Asn1.xml
+E:\22521691_LeHoangVu\Lab05\Lab05\Bai4\bin\Debug\System.Memory.xml
+E:\22521691_LeHoangVu\Lab05\Lab05\Bai4\bin\Debug\System.Numerics.Vectors.xml
+E:\22521691_LeHoangVu\Lab05\Lab05\Bai4\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\22521691_LeHoangVu\Lab05\Lab05\Bai4\bin\Debug\System.Threading.Tasks.Extensions.xml
+E:\22521691_LeHoangVu\Lab05\Lab05\Bai4\bin\Debug\System.ValueTuple.xml
+E:\22521691_LeHoangVu\Lab05\Lab05\Bai4\obj\Debug\Bai4.csproj.AssemblyReference.cache
+E:\22521691_LeHoangVu\Lab05\Lab05\Bai4\obj\Debug\Bai4.bai4.resources
+E:\22521691_LeHoangVu\Lab05\Lab05\Bai4\obj\Debug\Bai4.Properties.Resources.resources
+E:\22521691_LeHoangVu\Lab05\Lab05\Bai4\obj\Debug\Bai4.csproj.GenerateResource.cache
+E:\22521691_LeHoangVu\Lab05\Lab05\Bai4\obj\Debug\Bai4.csproj.CoreCompileInputs.cache
+E:\22521691_LeHoangVu\Lab05\Lab05\Bai4\obj\Debug\Bai4.csproj.Up2Date
+E:\22521691_LeHoangVu\Lab05\Lab05\Bai4\obj\Debug\Bai4.exe
+E:\22521691_LeHoangVu\Lab05\Lab05\Bai4\obj\Debug\Bai4.pdb
+E:\22521691_LeHoangVu\Lab05\Lab05\Bai4\bin\Debug\aa-DJ\Bai4.resources.dll
+E:\22521691_LeHoangVu\Lab05\Lab05\Bai4\obj\Debug\Bai4.bai4.aa-DJ.resources
+E:\22521691_LeHoangVu\Lab05\Lab05\Bai4\obj\Debug\aa-DJ\Bai4.resources.dll
+E:\22521691_LeHoangVu\Lab05\Lab05\Bai4\bin\Debug\runtimes\win-x86\native\WebView2Loader.dll
+E:\22521691_LeHoangVu\Lab05\Lab05\Bai4\bin\Debug\runtimes\win-x64\native\WebView2Loader.dll
+E:\22521691_LeHoangVu\Lab05\Lab05\Bai4\bin\Debug\runtimes\win-arm64\native\WebView2Loader.dll
+E:\22521691_LeHoangVu\Lab05\Lab05\Bai4\bin\Debug\Microsoft.Web.WebView2.Core.dll
+E:\22521691_LeHoangVu\Lab05\Lab05\Bai4\bin\Debug\Microsoft.Web.WebView2.WinForms.dll
+E:\22521691_LeHoangVu\Lab05\Lab05\Bai4\bin\Debug\Microsoft.Web.WebView2.Wpf.dll
+E:\22521691_LeHoangVu\Lab05\Lab05\Bai4\bin\Debug\Microsoft.Web.WebView2.Core.xml
+E:\22521691_LeHoangVu\Lab05\Lab05\Bai4\bin\Debug\Microsoft.Web.WebView2.WinForms.xml
+E:\22521691_LeHoangVu\Lab05\Lab05\Bai4\bin\Debug\Microsoft.Web.WebView2.Wpf.xml
+E:\22521691_LeHoangVu\Lab05\Lab05\Bai4\obj\Debug\Bai4.checkmail.resources
+E:\22521691_LeHoangVu\Lab05\Lab05\Bai4\obj\Debug\Bai4.sendmail.resources
+I:\22521691_LeHoangVu\Lab05\Lab05\bai4\bin\Debug\runtimes\win-x86\native\WebView2Loader.dll
+I:\22521691_LeHoangVu\Lab05\Lab05\bai4\bin\Debug\runtimes\win-x64\native\WebView2Loader.dll
+I:\22521691_LeHoangVu\Lab05\Lab05\bai4\bin\Debug\runtimes\win-arm64\native\WebView2Loader.dll
+I:\22521691_LeHoangVu\Lab05\Lab05\bai4\bin\Debug\Bai4.exe.config
+I:\22521691_LeHoangVu\Lab05\Lab05\bai4\bin\Debug\Bai4.exe
+I:\22521691_LeHoangVu\Lab05\Lab05\bai4\bin\Debug\Bai4.pdb
+I:\22521691_LeHoangVu\Lab05\Lab05\bai4\bin\Debug\aa-DJ\Bai4.resources.dll
+I:\22521691_LeHoangVu\Lab05\Lab05\bai4\bin\Debug\BouncyCastle.Cryptography.dll
+I:\22521691_LeHoangVu\Lab05\Lab05\bai4\bin\Debug\Google.Apis.Auth.dll
+I:\22521691_LeHoangVu\Lab05\Lab05\bai4\bin\Debug\Google.Apis.Core.dll
+I:\22521691_LeHoangVu\Lab05\Lab05\bai4\bin\Debug\Google.Apis.dll
+I:\22521691_LeHoangVu\Lab05\Lab05\bai4\bin\Debug\MailKit.dll
+I:\22521691_LeHoangVu\Lab05\Lab05\bai4\bin\Debug\Microsoft.Web.WebView2.Core.dll
+I:\22521691_LeHoangVu\Lab05\Lab05\bai4\bin\Debug\Microsoft.Web.WebView2.WinForms.dll
+I:\22521691_LeHoangVu\Lab05\Lab05\bai4\bin\Debug\Microsoft.Web.WebView2.Wpf.dll
+I:\22521691_LeHoangVu\Lab05\Lab05\bai4\bin\Debug\MimeKit.dll
+I:\22521691_LeHoangVu\Lab05\Lab05\bai4\bin\Debug\Newtonsoft.Json.dll
+I:\22521691_LeHoangVu\Lab05\Lab05\bai4\bin\Debug\System.Buffers.dll
+I:\22521691_LeHoangVu\Lab05\Lab05\bai4\bin\Debug\System.CodeDom.dll
+I:\22521691_LeHoangVu\Lab05\Lab05\bai4\bin\Debug\System.Formats.Asn1.dll
+I:\22521691_LeHoangVu\Lab05\Lab05\bai4\bin\Debug\System.Memory.dll
+I:\22521691_LeHoangVu\Lab05\Lab05\bai4\bin\Debug\System.Numerics.Vectors.dll
+I:\22521691_LeHoangVu\Lab05\Lab05\bai4\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+I:\22521691_LeHoangVu\Lab05\Lab05\bai4\bin\Debug\System.Threading.Tasks.Extensions.dll
+I:\22521691_LeHoangVu\Lab05\Lab05\bai4\bin\Debug\System.ValueTuple.dll
+I:\22521691_LeHoangVu\Lab05\Lab05\bai4\bin\Debug\BouncyCastle.Cryptography.xml
+I:\22521691_LeHoangVu\Lab05\Lab05\bai4\bin\Debug\Google.Apis.pdb
+I:\22521691_LeHoangVu\Lab05\Lab05\bai4\bin\Debug\Google.Apis.xml
+I:\22521691_LeHoangVu\Lab05\Lab05\bai4\bin\Debug\Google.Apis.Auth.pdb
+I:\22521691_LeHoangVu\Lab05\Lab05\bai4\bin\Debug\Google.Apis.Auth.xml
+I:\22521691_LeHoangVu\Lab05\Lab05\bai4\bin\Debug\Google.Apis.Core.pdb
+I:\22521691_LeHoangVu\Lab05\Lab05\bai4\bin\Debug\Google.Apis.Core.xml
+I:\22521691_LeHoangVu\Lab05\Lab05\bai4\bin\Debug\MailKit.pdb
+I:\22521691_LeHoangVu\Lab05\Lab05\bai4\bin\Debug\MailKit.xml
+I:\22521691_LeHoangVu\Lab05\Lab05\bai4\bin\Debug\MailKit.dll.config
+I:\22521691_LeHoangVu\Lab05\Lab05\bai4\bin\Debug\Microsoft.Web.WebView2.Core.xml
+I:\22521691_LeHoangVu\Lab05\Lab05\bai4\bin\Debug\Microsoft.Web.WebView2.WinForms.xml
+I:\22521691_LeHoangVu\Lab05\Lab05\bai4\bin\Debug\Microsoft.Web.WebView2.Wpf.xml
+I:\22521691_LeHoangVu\Lab05\Lab05\bai4\bin\Debug\MimeKit.pdb
+I:\22521691_LeHoangVu\Lab05\Lab05\bai4\bin\Debug\MimeKit.xml
+I:\22521691_LeHoangVu\Lab05\Lab05\bai4\bin\Debug\MimeKit.dll.config
+I:\22521691_LeHoangVu\Lab05\Lab05\bai4\bin\Debug\Newtonsoft.Json.xml
+I:\22521691_LeHoangVu\Lab05\Lab05\bai4\bin\Debug\System.Buffers.xml
+I:\22521691_LeHoangVu\Lab05\Lab05\bai4\bin\Debug\System.CodeDom.xml
+I:\22521691_LeHoangVu\Lab05\Lab05\bai4\bin\Debug\System.Formats.Asn1.xml
+I:\22521691_LeHoangVu\Lab05\Lab05\bai4\bin\Debug\System.Memory.xml
+I:\22521691_LeHoangVu\Lab05\Lab05\bai4\bin\Debug\System.Numerics.Vectors.xml
+I:\22521691_LeHoangVu\Lab05\Lab05\bai4\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+I:\22521691_LeHoangVu\Lab05\Lab05\bai4\bin\Debug\System.Threading.Tasks.Extensions.xml
+I:\22521691_LeHoangVu\Lab05\Lab05\bai4\bin\Debug\System.ValueTuple.xml
+I:\22521691_LeHoangVu\Lab05\Lab05\bai4\obj\Debug\Bai4.csproj.AssemblyReference.cache
+I:\22521691_LeHoangVu\Lab05\Lab05\bai4\obj\Debug\Bai4.bai4.resources
+I:\22521691_LeHoangVu\Lab05\Lab05\bai4\obj\Debug\Bai4.checkmail.resources
+I:\22521691_LeHoangVu\Lab05\Lab05\bai4\obj\Debug\Bai4.Properties.Resources.resources
+I:\22521691_LeHoangVu\Lab05\Lab05\bai4\obj\Debug\Bai4.sendmail.resources
+I:\22521691_LeHoangVu\Lab05\Lab05\bai4\obj\Debug\Bai4.bai4.aa-DJ.resources
+I:\22521691_LeHoangVu\Lab05\Lab05\bai4\obj\Debug\Bai4.csproj.GenerateResource.cache
+I:\22521691_LeHoangVu\Lab05\Lab05\bai4\obj\Debug\Bai4.csproj.CoreCompileInputs.cache
+I:\22521691_LeHoangVu\Lab05\Lab05\bai4\obj\Debug\aa-DJ\Bai4.resources.dll
+I:\22521691_LeHoangVu\Lab05\Lab05\bai4\obj\Debug\Bai4.csproj.Up2Date
+I:\22521691_LeHoangVu\Lab05\Lab05\bai4\obj\Debug\Bai4.exe
+I:\22521691_LeHoangVu\Lab05\Lab05\bai4\obj\Debug\Bai4.pdb
+D:\UIT\Nam_2\HK2\Lập trình mạng căn bản - NT106.O22\Lab\22521691_LeHoangVu\Lab05\Lab05\bai4\bin\Debug\runtimes\win-x86\native\WebView2Loader.dll
+D:\UIT\Nam_2\HK2\Lập trình mạng căn bản - NT106.O22\Lab\22521691_LeHoangVu\Lab05\Lab05\bai4\bin\Debug\runtimes\win-x64\native\WebView2Loader.dll
+D:\UIT\Nam_2\HK2\Lập trình mạng căn bản - NT106.O22\Lab\22521691_LeHoangVu\Lab05\Lab05\bai4\bin\Debug\runtimes\win-arm64\native\WebView2Loader.dll
+D:\UIT\Nam_2\HK2\Lập trình mạng căn bản - NT106.O22\Lab\22521691_LeHoangVu\Lab05\Lab05\bai4\bin\Debug\Bai4.exe.config
+D:\UIT\Nam_2\HK2\Lập trình mạng căn bản - NT106.O22\Lab\22521691_LeHoangVu\Lab05\Lab05\bai4\bin\Debug\Bai4.exe
+D:\UIT\Nam_2\HK2\Lập trình mạng căn bản - NT106.O22\Lab\22521691_LeHoangVu\Lab05\Lab05\bai4\bin\Debug\Bai4.pdb
+D:\UIT\Nam_2\HK2\Lập trình mạng căn bản - NT106.O22\Lab\22521691_LeHoangVu\Lab05\Lab05\bai4\bin\Debug\aa-DJ\Bai4.resources.dll
+D:\UIT\Nam_2\HK2\Lập trình mạng căn bản - NT106.O22\Lab\22521691_LeHoangVu\Lab05\Lab05\bai4\bin\Debug\BouncyCastle.Cryptography.dll
+D:\UIT\Nam_2\HK2\Lập trình mạng căn bản - NT106.O22\Lab\22521691_LeHoangVu\Lab05\Lab05\bai4\bin\Debug\Google.Apis.Auth.dll
+D:\UIT\Nam_2\HK2\Lập trình mạng căn bản - NT106.O22\Lab\22521691_LeHoangVu\Lab05\Lab05\bai4\bin\Debug\Google.Apis.Core.dll
+D:\UIT\Nam_2\HK2\Lập trình mạng căn bản - NT106.O22\Lab\22521691_LeHoangVu\Lab05\Lab05\bai4\bin\Debug\Google.Apis.dll
+D:\UIT\Nam_2\HK2\Lập trình mạng căn bản - NT106.O22\Lab\22521691_LeHoangVu\Lab05\Lab05\bai4\bin\Debug\MailKit.dll
+D:\UIT\Nam_2\HK2\Lập trình mạng căn bản - NT106.O22\Lab\22521691_LeHoangVu\Lab05\Lab05\bai4\bin\Debug\Microsoft.Web.WebView2.Core.dll
+D:\UIT\Nam_2\HK2\Lập trình mạng căn bản - NT106.O22\Lab\22521691_LeHoangVu\Lab05\Lab05\bai4\bin\Debug\Microsoft.Web.WebView2.WinForms.dll
+D:\UIT\Nam_2\HK2\Lập trình mạng căn bản - NT106.O22\Lab\22521691_LeHoangVu\Lab05\Lab05\bai4\bin\Debug\Microsoft.Web.WebView2.Wpf.dll
+D:\UIT\Nam_2\HK2\Lập trình mạng căn bản - NT106.O22\Lab\22521691_LeHoangVu\Lab05\Lab05\bai4\bin\Debug\MimeKit.dll
+D:\UIT\Nam_2\HK2\Lập trình mạng căn bản - NT106.O22\Lab\22521691_LeHoangVu\Lab05\Lab05\bai4\bin\Debug\Newtonsoft.Json.dll
+D:\UIT\Nam_2\HK2\Lập trình mạng căn bản - NT106.O22\Lab\22521691_LeHoangVu\Lab05\Lab05\bai4\bin\Debug\System.Buffers.dll
+D:\UIT\Nam_2\HK2\Lập trình mạng căn bản - NT106.O22\Lab\22521691_LeHoangVu\Lab05\Lab05\bai4\bin\Debug\System.CodeDom.dll
+D:\UIT\Nam_2\HK2\Lập trình mạng căn bản - NT106.O22\Lab\22521691_LeHoangVu\Lab05\Lab05\bai4\bin\Debug\System.Formats.Asn1.dll
+D:\UIT\Nam_2\HK2\Lập trình mạng căn bản - NT106.O22\Lab\22521691_LeHoangVu\Lab05\Lab05\bai4\bin\Debug\System.Memory.dll
+D:\UIT\Nam_2\HK2\Lập trình mạng căn bản - NT106.O22\Lab\22521691_LeHoangVu\Lab05\Lab05\bai4\bin\Debug\System.Numerics.Vectors.dll
+D:\UIT\Nam_2\HK2\Lập trình mạng căn bản - NT106.O22\Lab\22521691_LeHoangVu\Lab05\Lab05\bai4\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\UIT\Nam_2\HK2\Lập trình mạng căn bản - NT106.O22\Lab\22521691_LeHoangVu\Lab05\Lab05\bai4\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\UIT\Nam_2\HK2\Lập trình mạng căn bản - NT106.O22\Lab\22521691_LeHoangVu\Lab05\Lab05\bai4\bin\Debug\System.ValueTuple.dll
+D:\UIT\Nam_2\HK2\Lập trình mạng căn bản - NT106.O22\Lab\22521691_LeHoangVu\Lab05\Lab05\bai4\bin\Debug\BouncyCastle.Cryptography.xml
+D:\UIT\Nam_2\HK2\Lập trình mạng căn bản - NT106.O22\Lab\22521691_LeHoangVu\Lab05\Lab05\bai4\bin\Debug\Google.Apis.pdb
+D:\UIT\Nam_2\HK2\Lập trình mạng căn bản - NT106.O22\Lab\22521691_LeHoangVu\Lab05\Lab05\bai4\bin\Debug\Google.Apis.xml
+D:\UIT\Nam_2\HK2\Lập trình mạng căn bản - NT106.O22\Lab\22521691_LeHoangVu\Lab05\Lab05\bai4\bin\Debug\Google.Apis.Auth.pdb
+D:\UIT\Nam_2\HK2\Lập trình mạng căn bản - NT106.O22\Lab\22521691_LeHoangVu\Lab05\Lab05\bai4\bin\Debug\Google.Apis.Auth.xml
+D:\UIT\Nam_2\HK2\Lập trình mạng căn bản - NT106.O22\Lab\22521691_LeHoangVu\Lab05\Lab05\bai4\bin\Debug\Google.Apis.Core.pdb
+D:\UIT\Nam_2\HK2\Lập trình mạng căn bản - NT106.O22\Lab\22521691_LeHoangVu\Lab05\Lab05\bai4\bin\Debug\Google.Apis.Core.xml
+D:\UIT\Nam_2\HK2\Lập trình mạng căn bản - NT106.O22\Lab\22521691_LeHoangVu\Lab05\Lab05\bai4\bin\Debug\MailKit.pdb
+D:\UIT\Nam_2\HK2\Lập trình mạng căn bản - NT106.O22\Lab\22521691_LeHoangVu\Lab05\Lab05\bai4\bin\Debug\MailKit.xml
+D:\UIT\Nam_2\HK2\Lập trình mạng căn bản - NT106.O22\Lab\22521691_LeHoangVu\Lab05\Lab05\bai4\bin\Debug\MailKit.dll.config
+D:\UIT\Nam_2\HK2\Lập trình mạng căn bản - NT106.O22\Lab\22521691_LeHoangVu\Lab05\Lab05\bai4\bin\Debug\Microsoft.Web.WebView2.Core.xml
+D:\UIT\Nam_2\HK2\Lập trình mạng căn bản - NT106.O22\Lab\22521691_LeHoangVu\Lab05\Lab05\bai4\bin\Debug\Microsoft.Web.WebView2.WinForms.xml
+D:\UIT\Nam_2\HK2\Lập trình mạng căn bản - NT106.O22\Lab\22521691_LeHoangVu\Lab05\Lab05\bai4\bin\Debug\Microsoft.Web.WebView2.Wpf.xml
+D:\UIT\Nam_2\HK2\Lập trình mạng căn bản - NT106.O22\Lab\22521691_LeHoangVu\Lab05\Lab05\bai4\bin\Debug\MimeKit.pdb
+D:\UIT\Nam_2\HK2\Lập trình mạng căn bản - NT106.O22\Lab\22521691_LeHoangVu\Lab05\Lab05\bai4\bin\Debug\MimeKit.xml
+D:\UIT\Nam_2\HK2\Lập trình mạng căn bản - NT106.O22\Lab\22521691_LeHoangVu\Lab05\Lab05\bai4\bin\Debug\MimeKit.dll.config
+D:\UIT\Nam_2\HK2\Lập trình mạng căn bản - NT106.O22\Lab\22521691_LeHoangVu\Lab05\Lab05\bai4\bin\Debug\Newtonsoft.Json.xml
+D:\UIT\Nam_2\HK2\Lập trình mạng căn bản - NT106.O22\Lab\22521691_LeHoangVu\Lab05\Lab05\bai4\bin\Debug\System.Buffers.xml
+D:\UIT\Nam_2\HK2\Lập trình mạng căn bản - NT106.O22\Lab\22521691_LeHoangVu\Lab05\Lab05\bai4\bin\Debug\System.CodeDom.xml
+D:\UIT\Nam_2\HK2\Lập trình mạng căn bản - NT106.O22\Lab\22521691_LeHoangVu\Lab05\Lab05\bai4\bin\Debug\System.Formats.Asn1.xml
+D:\UIT\Nam_2\HK2\Lập trình mạng căn bản - NT106.O22\Lab\22521691_LeHoangVu\Lab05\Lab05\bai4\bin\Debug\System.Memory.xml
+D:\UIT\Nam_2\HK2\Lập trình mạng căn bản - NT106.O22\Lab\22521691_LeHoangVu\Lab05\Lab05\bai4\bin\Debug\System.Numerics.Vectors.xml
+D:\UIT\Nam_2\HK2\Lập trình mạng căn bản - NT106.O22\Lab\22521691_LeHoangVu\Lab05\Lab05\bai4\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\UIT\Nam_2\HK2\Lập trình mạng căn bản - NT106.O22\Lab\22521691_LeHoangVu\Lab05\Lab05\bai4\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\UIT\Nam_2\HK2\Lập trình mạng căn bản - NT106.O22\Lab\22521691_LeHoangVu\Lab05\Lab05\bai4\bin\Debug\System.ValueTuple.xml
+D:\UIT\Nam_2\HK2\Lập trình mạng căn bản - NT106.O22\Lab\22521691_LeHoangVu\Lab05\Lab05\bai4\obj\Debug\Bai4.csproj.AssemblyReference.cache
+D:\UIT\Nam_2\HK2\Lập trình mạng căn bản - NT106.O22\Lab\22521691_LeHoangVu\Lab05\Lab05\bai4\obj\Debug\Bai4.bai4.resources
+D:\UIT\Nam_2\HK2\Lập trình mạng căn bản - NT106.O22\Lab\22521691_LeHoangVu\Lab05\Lab05\bai4\obj\Debug\Bai4.checkmail.resources
+D:\UIT\Nam_2\HK2\Lập trình mạng căn bản - NT106.O22\Lab\22521691_LeHoangVu\Lab05\Lab05\bai4\obj\Debug\Bai4.Properties.Resources.resources
+D:\UIT\Nam_2\HK2\Lập trình mạng căn bản - NT106.O22\Lab\22521691_LeHoangVu\Lab05\Lab05\bai4\obj\Debug\Bai4.sendmail.resources
+D:\UIT\Nam_2\HK2\Lập trình mạng căn bản - NT106.O22\Lab\22521691_LeHoangVu\Lab05\Lab05\bai4\obj\Debug\Bai4.bai4.aa-DJ.resources
+D:\UIT\Nam_2\HK2\Lập trình mạng căn bản - NT106.O22\Lab\22521691_LeHoangVu\Lab05\Lab05\bai4\obj\Debug\Bai4.csproj.GenerateResource.cache
+D:\UIT\Nam_2\HK2\Lập trình mạng căn bản - NT106.O22\Lab\22521691_LeHoangVu\Lab05\Lab05\bai4\obj\Debug\Bai4.csproj.CoreCompileInputs.cache
+D:\UIT\Nam_2\HK2\Lập trình mạng căn bản - NT106.O22\Lab\22521691_LeHoangVu\Lab05\Lab05\bai4\obj\Debug\aa-DJ\Bai4.resources.dll
+D:\UIT\Nam_2\HK2\Lập trình mạng căn bản - NT106.O22\Lab\22521691_LeHoangVu\Lab05\Lab05\bai4\obj\Debug\Bai4.csproj.Up2Date
+D:\UIT\Nam_2\HK2\Lập trình mạng căn bản - NT106.O22\Lab\22521691_LeHoangVu\Lab05\Lab05\bai4\obj\Debug\Bai4.exe
+D:\UIT\Nam_2\HK2\Lập trình mạng căn bản - NT106.O22\Lab\22521691_LeHoangVu\Lab05\Lab05\bai4\obj\Debug\Bai4.pdb
+D:\UIT\Nam_2\HK2\Lập trình mạng căn bản - NT106.O22\Lab\22521691_LeHoangVu\Lab05\bai4\bin\Debug\runtimes\win-x86\native\WebView2Loader.dll
+D:\UIT\Nam_2\HK2\Lập trình mạng căn bản - NT106.O22\Lab\22521691_LeHoangVu\Lab05\bai4\bin\Debug\runtimes\win-x64\native\WebView2Loader.dll
+D:\UIT\Nam_2\HK2\Lập trình mạng căn bản - NT106.O22\Lab\22521691_LeHoangVu\Lab05\bai4\bin\Debug\runtimes\win-arm64\native\WebView2Loader.dll
+D:\UIT\Nam_2\HK2\Lập trình mạng căn bản - NT106.O22\Lab\22521691_LeHoangVu\Lab05\bai4\bin\Debug\Bai4.exe.config
+D:\UIT\Nam_2\HK2\Lập trình mạng căn bản - NT106.O22\Lab\22521691_LeHoangVu\Lab05\bai4\bin\Debug\Bai4.exe
+D:\UIT\Nam_2\HK2\Lập trình mạng căn bản - NT106.O22\Lab\22521691_LeHoangVu\Lab05\bai4\bin\Debug\Bai4.pdb
+D:\UIT\Nam_2\HK2\Lập trình mạng căn bản - NT106.O22\Lab\22521691_LeHoangVu\Lab05\bai4\bin\Debug\aa-DJ\Bai4.resources.dll
+D:\UIT\Nam_2\HK2\Lập trình mạng căn bản - NT106.O22\Lab\22521691_LeHoangVu\Lab05\bai4\bin\Debug\BouncyCastle.Cryptography.dll
+D:\UIT\Nam_2\HK2\Lập trình mạng căn bản - NT106.O22\Lab\22521691_LeHoangVu\Lab05\bai4\bin\Debug\Google.Apis.Auth.dll
+D:\UIT\Nam_2\HK2\Lập trình mạng căn bản - NT106.O22\Lab\22521691_LeHoangVu\Lab05\bai4\bin\Debug\Google.Apis.Core.dll
+D:\UIT\Nam_2\HK2\Lập trình mạng căn bản - NT106.O22\Lab\22521691_LeHoangVu\Lab05\bai4\bin\Debug\Google.Apis.dll
+D:\UIT\Nam_2\HK2\Lập trình mạng căn bản - NT106.O22\Lab\22521691_LeHoangVu\Lab05\bai4\bin\Debug\MailKit.dll
+D:\UIT\Nam_2\HK2\Lập trình mạng căn bản - NT106.O22\Lab\22521691_LeHoangVu\Lab05\bai4\bin\Debug\Microsoft.Web.WebView2.Core.dll
+D:\UIT\Nam_2\HK2\Lập trình mạng căn bản - NT106.O22\Lab\22521691_LeHoangVu\Lab05\bai4\bin\Debug\Microsoft.Web.WebView2.WinForms.dll
+D:\UIT\Nam_2\HK2\Lập trình mạng căn bản - NT106.O22\Lab\22521691_LeHoangVu\Lab05\bai4\bin\Debug\Microsoft.Web.WebView2.Wpf.dll
+D:\UIT\Nam_2\HK2\Lập trình mạng căn bản - NT106.O22\Lab\22521691_LeHoangVu\Lab05\bai4\bin\Debug\MimeKit.dll
+D:\UIT\Nam_2\HK2\Lập trình mạng căn bản - NT106.O22\Lab\22521691_LeHoangVu\Lab05\bai4\bin\Debug\Newtonsoft.Json.dll
+D:\UIT\Nam_2\HK2\Lập trình mạng căn bản - NT106.O22\Lab\22521691_LeHoangVu\Lab05\bai4\bin\Debug\System.Buffers.dll
+D:\UIT\Nam_2\HK2\Lập trình mạng căn bản - NT106.O22\Lab\22521691_LeHoangVu\Lab05\bai4\bin\Debug\System.CodeDom.dll
+D:\UIT\Nam_2\HK2\Lập trình mạng căn bản - NT106.O22\Lab\22521691_LeHoangVu\Lab05\bai4\bin\Debug\System.Formats.Asn1.dll
+D:\UIT\Nam_2\HK2\Lập trình mạng căn bản - NT106.O22\Lab\22521691_LeHoangVu\Lab05\bai4\bin\Debug\System.Memory.dll
+D:\UIT\Nam_2\HK2\Lập trình mạng căn bản - NT106.O22\Lab\22521691_LeHoangVu\Lab05\bai4\bin\Debug\System.Numerics.Vectors.dll
+D:\UIT\Nam_2\HK2\Lập trình mạng căn bản - NT106.O22\Lab\22521691_LeHoangVu\Lab05\bai4\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\UIT\Nam_2\HK2\Lập trình mạng căn bản - NT106.O22\Lab\22521691_LeHoangVu\Lab05\bai4\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\UIT\Nam_2\HK2\Lập trình mạng căn bản - NT106.O22\Lab\22521691_LeHoangVu\Lab05\bai4\bin\Debug\System.ValueTuple.dll
+D:\UIT\Nam_2\HK2\Lập trình mạng căn bản - NT106.O22\Lab\22521691_LeHoangVu\Lab05\bai4\bin\Debug\BouncyCastle.Cryptography.xml
+D:\UIT\Nam_2\HK2\Lập trình mạng căn bản - NT106.O22\Lab\22521691_LeHoangVu\Lab05\bai4\bin\Debug\Google.Apis.pdb
+D:\UIT\Nam_2\HK2\Lập trình mạng căn bản - NT106.O22\Lab\22521691_LeHoangVu\Lab05\bai4\bin\Debug\Google.Apis.xml
+D:\UIT\Nam_2\HK2\Lập trình mạng căn bản - NT106.O22\Lab\22521691_LeHoangVu\Lab05\bai4\bin\Debug\Google.Apis.Auth.pdb
+D:\UIT\Nam_2\HK2\Lập trình mạng căn bản - NT106.O22\Lab\22521691_LeHoangVu\Lab05\bai4\bin\Debug\Google.Apis.Auth.xml
+D:\UIT\Nam_2\HK2\Lập trình mạng căn bản - NT106.O22\Lab\22521691_LeHoangVu\Lab05\bai4\bin\Debug\Google.Apis.Core.pdb
+D:\UIT\Nam_2\HK2\Lập trình mạng căn bản - NT106.O22\Lab\22521691_LeHoangVu\Lab05\bai4\bin\Debug\Google.Apis.Core.xml
+D:\UIT\Nam_2\HK2\Lập trình mạng căn bản - NT106.O22\Lab\22521691_LeHoangVu\Lab05\bai4\bin\Debug\MailKit.pdb
+D:\UIT\Nam_2\HK2\Lập trình mạng căn bản - NT106.O22\Lab\22521691_LeHoangVu\Lab05\bai4\bin\Debug\MailKit.xml
+D:\UIT\Nam_2\HK2\Lập trình mạng căn bản - NT106.O22\Lab\22521691_LeHoangVu\Lab05\bai4\bin\Debug\MailKit.dll.config
+D:\UIT\Nam_2\HK2\Lập trình mạng căn bản - NT106.O22\Lab\22521691_LeHoangVu\Lab05\bai4\bin\Debug\Microsoft.Web.WebView2.Core.xml
+D:\UIT\Nam_2\HK2\Lập trình mạng căn bản - NT106.O22\Lab\22521691_LeHoangVu\Lab05\bai4\bin\Debug\Microsoft.Web.WebView2.WinForms.xml
+D:\UIT\Nam_2\HK2\Lập trình mạng căn bản - NT106.O22\Lab\22521691_LeHoangVu\Lab05\bai4\bin\Debug\Microsoft.Web.WebView2.Wpf.xml
+D:\UIT\Nam_2\HK2\Lập trình mạng căn bản - NT106.O22\Lab\22521691_LeHoangVu\Lab05\bai4\bin\Debug\MimeKit.pdb
+D:\UIT\Nam_2\HK2\Lập trình mạng căn bản - NT106.O22\Lab\22521691_LeHoangVu\Lab05\bai4\bin\Debug\MimeKit.xml
+D:\UIT\Nam_2\HK2\Lập trình mạng căn bản - NT106.O22\Lab\22521691_LeHoangVu\Lab05\bai4\bin\Debug\MimeKit.dll.config
+D:\UIT\Nam_2\HK2\Lập trình mạng căn bản - NT106.O22\Lab\22521691_LeHoangVu\Lab05\bai4\bin\Debug\Newtonsoft.Json.xml
+D:\UIT\Nam_2\HK2\Lập trình mạng căn bản - NT106.O22\Lab\22521691_LeHoangVu\Lab05\bai4\bin\Debug\System.Buffers.xml
+D:\UIT\Nam_2\HK2\Lập trình mạng căn bản - NT106.O22\Lab\22521691_LeHoangVu\Lab05\bai4\bin\Debug\System.CodeDom.xml
+D:\UIT\Nam_2\HK2\Lập trình mạng căn bản - NT106.O22\Lab\22521691_LeHoangVu\Lab05\bai4\bin\Debug\System.Formats.Asn1.xml
+D:\UIT\Nam_2\HK2\Lập trình mạng căn bản - NT106.O22\Lab\22521691_LeHoangVu\Lab05\bai4\bin\Debug\System.Memory.xml
+D:\UIT\Nam_2\HK2\Lập trình mạng căn bản - NT106.O22\Lab\22521691_LeHoangVu\Lab05\bai4\bin\Debug\System.Numerics.Vectors.xml
+D:\UIT\Nam_2\HK2\Lập trình mạng căn bản - NT106.O22\Lab\22521691_LeHoangVu\Lab05\bai4\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\UIT\Nam_2\HK2\Lập trình mạng căn bản - NT106.O22\Lab\22521691_LeHoangVu\Lab05\bai4\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\UIT\Nam_2\HK2\Lập trình mạng căn bản - NT106.O22\Lab\22521691_LeHoangVu\Lab05\bai4\bin\Debug\System.ValueTuple.xml
+D:\UIT\Nam_2\HK2\Lập trình mạng căn bản - NT106.O22\Lab\22521691_LeHoangVu\Lab05\bai4\obj\Debug\Bai4.csproj.AssemblyReference.cache
+D:\UIT\Nam_2\HK2\Lập trình mạng căn bản - NT106.O22\Lab\22521691_LeHoangVu\Lab05\bai4\obj\Debug\Bai4.bai4.resources
+D:\UIT\Nam_2\HK2\Lập trình mạng căn bản - NT106.O22\Lab\22521691_LeHoangVu\Lab05\bai4\obj\Debug\Bai4.checkmail.resources
+D:\UIT\Nam_2\HK2\Lập trình mạng căn bản - NT106.O22\Lab\22521691_LeHoangVu\Lab05\bai4\obj\Debug\Bai4.Properties.Resources.resources
+D:\UIT\Nam_2\HK2\Lập trình mạng căn bản - NT106.O22\Lab\22521691_LeHoangVu\Lab05\bai4\obj\Debug\Bai4.sendmail.resources
+D:\UIT\Nam_2\HK2\Lập trình mạng căn bản - NT106.O22\Lab\22521691_LeHoangVu\Lab05\bai4\obj\Debug\Bai4.bai4.aa-DJ.resources
+D:\UIT\Nam_2\HK2\Lập trình mạng căn bản - NT106.O22\Lab\22521691_LeHoangVu\Lab05\bai4\obj\Debug\Bai4.csproj.GenerateResource.cache
+D:\UIT\Nam_2\HK2\Lập trình mạng căn bản - NT106.O22\Lab\22521691_LeHoangVu\Lab05\bai4\obj\Debug\Bai4.csproj.CoreCompileInputs.cache
+D:\UIT\Nam_2\HK2\Lập trình mạng căn bản - NT106.O22\Lab\22521691_LeHoangVu\Lab05\bai4\obj\Debug\aa-DJ\Bai4.resources.dll
+D:\UIT\Nam_2\HK2\Lập trình mạng căn bản - NT106.O22\Lab\22521691_LeHoangVu\Lab05\bai4\obj\Debug\Bai4.csproj.Up2Date
+D:\UIT\Nam_2\HK2\Lập trình mạng căn bản - NT106.O22\Lab\22521691_LeHoangVu\Lab05\bai4\obj\Debug\Bai4.exe
+D:\UIT\Nam_2\HK2\Lập trình mạng căn bản - NT106.O22\Lab\22521691_LeHoangVu\Lab05\bai4\obj\Debug\Bai4.pdb
+D:\Laptrinhmangcb\TH\Lab5\Lab5_Bai04\bin\Debug\Bai4.exe.config
+D:\Laptrinhmangcb\TH\Lab5\Lab5_Bai04\bin\Debug\Bai4.exe
+D:\Laptrinhmangcb\TH\Lab5\Lab5_Bai04\bin\Debug\Bai4.pdb
+D:\Laptrinhmangcb\TH\Lab5\Lab5_Bai04\bin\Debug\BouncyCastle.Cryptography.dll
+D:\Laptrinhmangcb\TH\Lab5\Lab5_Bai04\bin\Debug\Google.Apis.Auth.dll
+D:\Laptrinhmangcb\TH\Lab5\Lab5_Bai04\bin\Debug\Google.Apis.Core.dll
+D:\Laptrinhmangcb\TH\Lab5\Lab5_Bai04\bin\Debug\Google.Apis.dll
+D:\Laptrinhmangcb\TH\Lab5\Lab5_Bai04\bin\Debug\MailKit.dll
+D:\Laptrinhmangcb\TH\Lab5\Lab5_Bai04\bin\Debug\Microsoft.Web.WebView2.Core.dll
+D:\Laptrinhmangcb\TH\Lab5\Lab5_Bai04\bin\Debug\Microsoft.Web.WebView2.WinForms.dll
+D:\Laptrinhmangcb\TH\Lab5\Lab5_Bai04\bin\Debug\Microsoft.Web.WebView2.Wpf.dll
+D:\Laptrinhmangcb\TH\Lab5\Lab5_Bai04\bin\Debug\MimeKit.dll
+D:\Laptrinhmangcb\TH\Lab5\Lab5_Bai04\bin\Debug\Newtonsoft.Json.dll
+D:\Laptrinhmangcb\TH\Lab5\Lab5_Bai04\bin\Debug\System.Buffers.dll
+D:\Laptrinhmangcb\TH\Lab5\Lab5_Bai04\bin\Debug\System.CodeDom.dll
+D:\Laptrinhmangcb\TH\Lab5\Lab5_Bai04\bin\Debug\System.Formats.Asn1.dll
+D:\Laptrinhmangcb\TH\Lab5\Lab5_Bai04\bin\Debug\System.Memory.dll
+D:\Laptrinhmangcb\TH\Lab5\Lab5_Bai04\bin\Debug\System.Numerics.Vectors.dll
+D:\Laptrinhmangcb\TH\Lab5\Lab5_Bai04\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Laptrinhmangcb\TH\Lab5\Lab5_Bai04\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\Laptrinhmangcb\TH\Lab5\Lab5_Bai04\bin\Debug\System.ValueTuple.dll
+D:\Laptrinhmangcb\TH\Lab5\Lab5_Bai04\bin\Debug\BouncyCastle.Cryptography.xml
+D:\Laptrinhmangcb\TH\Lab5\Lab5_Bai04\bin\Debug\Google.Apis.pdb
+D:\Laptrinhmangcb\TH\Lab5\Lab5_Bai04\bin\Debug\Google.Apis.xml
+D:\Laptrinhmangcb\TH\Lab5\Lab5_Bai04\bin\Debug\Google.Apis.Auth.pdb
+D:\Laptrinhmangcb\TH\Lab5\Lab5_Bai04\bin\Debug\Google.Apis.Auth.xml
+D:\Laptrinhmangcb\TH\Lab5\Lab5_Bai04\bin\Debug\Google.Apis.Core.pdb
+D:\Laptrinhmangcb\TH\Lab5\Lab5_Bai04\bin\Debug\Google.Apis.Core.xml
+D:\Laptrinhmangcb\TH\Lab5\Lab5_Bai04\bin\Debug\MailKit.pdb
+D:\Laptrinhmangcb\TH\Lab5\Lab5_Bai04\bin\Debug\MailKit.xml
+D:\Laptrinhmangcb\TH\Lab5\Lab5_Bai04\bin\Debug\MailKit.dll.config
+D:\Laptrinhmangcb\TH\Lab5\Lab5_Bai04\bin\Debug\Microsoft.Web.WebView2.Core.xml
+D:\Laptrinhmangcb\TH\Lab5\Lab5_Bai04\bin\Debug\Microsoft.Web.WebView2.WinForms.xml
+D:\Laptrinhmangcb\TH\Lab5\Lab5_Bai04\bin\Debug\Microsoft.Web.WebView2.Wpf.xml
+D:\Laptrinhmangcb\TH\Lab5\Lab5_Bai04\bin\Debug\MimeKit.pdb
+D:\Laptrinhmangcb\TH\Lab5\Lab5_Bai04\bin\Debug\MimeKit.xml
+D:\Laptrinhmangcb\TH\Lab5\Lab5_Bai04\bin\Debug\MimeKit.dll.config
+D:\Laptrinhmangcb\TH\Lab5\Lab5_Bai04\bin\Debug\Newtonsoft.Json.xml
+D:\Laptrinhmangcb\TH\Lab5\Lab5_Bai04\bin\Debug\System.Buffers.xml
+D:\Laptrinhmangcb\TH\Lab5\Lab5_Bai04\bin\Debug\System.CodeDom.xml
+D:\Laptrinhmangcb\TH\Lab5\Lab5_Bai04\bin\Debug\System.Formats.Asn1.xml
+D:\Laptrinhmangcb\TH\Lab5\Lab5_Bai04\bin\Debug\System.Memory.xml
+D:\Laptrinhmangcb\TH\Lab5\Lab5_Bai04\bin\Debug\System.Numerics.Vectors.xml
+D:\Laptrinhmangcb\TH\Lab5\Lab5_Bai04\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Laptrinhmangcb\TH\Lab5\Lab5_Bai04\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\Laptrinhmangcb\TH\Lab5\Lab5_Bai04\bin\Debug\System.ValueTuple.xml
+D:\Laptrinhmangcb\TH\Lab5\Lab5_Bai04\obj\Debug\Bai4.csproj.AssemblyReference.cache
+D:\Laptrinhmangcb\TH\Lab5\Lab5_Bai04\obj\Debug\Bai4.bai4.resources
+D:\Laptrinhmangcb\TH\Lab5\Lab5_Bai04\obj\Debug\Bai4.checkmail.resources
+D:\Laptrinhmangcb\TH\Lab5\Lab5_Bai04\obj\Debug\Bai4.Properties.Resources.resources
+D:\Laptrinhmangcb\TH\Lab5\Lab5_Bai04\obj\Debug\Bai4.sendmail.resources
+D:\Laptrinhmangcb\TH\Lab5\Lab5_Bai04\obj\Debug\Bai4.csproj.GenerateResource.cache
+D:\Laptrinhmangcb\TH\Lab5\Lab5_Bai04\obj\Debug\Bai4.csproj.CoreCompileInputs.cache
+D:\Laptrinhmangcb\TH\Lab5\Lab5_Bai04\obj\Debug\Bai4.csproj.Up2Date
+D:\Laptrinhmangcb\TH\Lab5\Lab5_Bai04\obj\Debug\Bai4.exe
+D:\Laptrinhmangcb\TH\Lab5\Lab5_Bai04\obj\Debug\Bai4.pdb
+D:\Laptrinhmangcb\TH\Lab5\Lab5_Bai04\bin\Debug\runtimes\win-x86\native\WebView2Loader.dll
+D:\Laptrinhmangcb\TH\Lab5\Lab5_Bai04\bin\Debug\runtimes\win-x64\native\WebView2Loader.dll
+D:\Laptrinhmangcb\TH\Lab5\Lab5_Bai04\bin\Debug\runtimes\win-arm64\native\WebView2Loader.dll
